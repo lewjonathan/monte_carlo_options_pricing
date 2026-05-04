@@ -46,3 +46,5 @@ For binary options, the discontinuous payoff makes convergence behavior less sta
 ## References
 
 This project draws on standard numerical finance and Monte Carlo methods, including Glasserman, Higham, Kloeden & Platen, and related work on Monte Carlo simulation and stochastic differential equations.
+
+Note: This repository contains a public redacted version. Exact implementation details, private parameters, diagnostic plots, and full outputs are omitted. The focus is on research workflow, validation structure, and interpretation.
