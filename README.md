@@ -40,7 +40,6 @@ For binary options, the discontinuous payoff makes convergence behavior less sta
 ## Project Files
 
 - `README.md` — public redacted project summary
-- `requirements.txt` — required Python packages, if included
 
 ## References
 
